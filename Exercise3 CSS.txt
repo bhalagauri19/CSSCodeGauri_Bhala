@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Hindi Films</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+    <style>
+        body {
+            font-family:'Poppins', sans-serif;
+        }
+
+        ul {
+            list-style: none;
+        }
+
+        li {
+            font-size: 20px;
+            margin: 8px 0;
+        }
+
+        i {
+            margin-right: 10px;
+        }
+    </style>
+</head>
+
+<body>
+<h2>Best Hindi Films</h2>
+<ul>
+    <li><i class="fa-solid fa-star"></i>3 Idiots</li>
+    <li><i class="fa-solid fa-star"></i>Dangal</li>
+    <li><i class="fa-solid fa-star"></i>Om Shanti Om</li>
+    <li><i class="fa-solid fa-star"></i>Bajrangi Bhaijaan</li>
+    <li><i class="fa-solid fa-star"></i>Taare Zameen Par</li>
+</ul>
+
+</body>
+</html>
+</html>
